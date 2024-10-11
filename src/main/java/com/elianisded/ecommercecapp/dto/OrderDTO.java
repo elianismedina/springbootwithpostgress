@@ -1,5 +1,6 @@
 package com.elianisded.ecommercecapp.dto;
 
+import com.elianisded.ecommercecapp.model.Order;
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;
 

@@ -3,6 +3,7 @@ package com.elianisded.ecommercecapp.repositories;
 import com.elianisded.ecommercecapp.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
+
 import java.util.List;
 
 public interface OrderRepository extends JpaRepository<Order, Long> {
